@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="name_films">Nama Film</string>
+    <string name="bahasa">Ganti Bahasa</string>
+    <string name="desc">Sinopsis</string>
+
+    <string-array name="data_name">
+        <item>Aquaman</item>
+        <item>Avengers: Infinity WAR</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumblebee</item>
+        <item>Captain Marvel</item>
+        <item>How to Train Your Dragon: The Hidden World</item>
+        <item>Men in Black: International</item>
+        <item>Preman Pensiun</item>
+        <item>Robin Hood</item>
+        <item>Spider-Man: Far From Home</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Film ini mengungkap asal-usul Arthur Curry, manusia perkasa yang bisa mengendalikan air dan hewan laut. Dari mana ia mendapatkan kekuatannya? Siapa orang tuanya, dan pantaskah dia menjadi seorang raja di 7samudera?</item>
+        <item>The Avengers dan sekutu mereka harus bersedia mengorbankan segalanya dalam upaya untuk mengalahkan Thanos yang kuat sebelum ia berhasil menghancurkan alam semesta.</item>
+        <item>BOHEMIAN RHAPSODY adalah film yang diangkat dari kisah nyata untuk merayakan musik band Rock legendaris QUEEN dan tentunya vokalis mereka yang luar biasa, FREDDIE MERCURY, yang dikenal menentang tradisi dan stereotip hingga menjadi salah satu penghibur yang paling dicintai di planet ini.</item>
+        <item>Dalam pelarian di tahun 1987, Bumblebee menemukan perlindungan di tempat rongsokan di sebuah kota kecil pinggir pantai California. Charlie, gadis yang tengah menyentuh usia 18 tahun dan sedang mencari jati diri, menemukan Bumblebee, yang banyak tergores dan rusak. Ketika berusaha memfungsikannya lagi, Charlie menyaksikan sendiri bahwa ini bukanlah mobil VW kodok berwarna kuning yang biasa.</item>
+        <item>Captain Marvel adalah superhero wanita dari Marvel yang mempunyai banyak kekuatan setara seperti Superman. Superhero yang bernama Carol Danvers ini awalnya merupakan seorang pilot luar angkasa, konon ia mendapatakan kekuatan supernya dari bangsa alien.</item>
+        <item>Di film ketiganya ini akan berkisah tentang Hiccup (Jay Baruchel) yang berusaha memenuhi impiannya untuk menciptakan sebuah negeri impian bagi para Viking dan naga.</item>
+        <item>Men in Black selalu melindungi Bumi dari penjahat alam semesta. Dalam petualangan baru ini, mereka harus mengatasi ancaman terbesar mereka hingga saat ini: mata - mata yang ada dalam organisasi Men in Black.</item>
+        <item>Preman Pensiun adalah film Indonesia tahun 2019 yang diadaptasi dari sebuah sinetron berjudul sama yang pernah tayang di stasiun televisi RCTI. Film ini disutradarai oleh Aris Nugraha yang juga sebagai penulis skenario dan diputar perdana pada 17 Januari 2019.</item>
+        <item>Robin Hood (Taron Egerton) sebagai tentara salib kembali ke negerinya dalam keadaan yang berbeda. Ia menemukan pejabat korup dan menghabiskan uang kerajaan sementara rakyat dalam keadaan sengsara. Bersama Little John (Jamie Foxx) Ia melawan tirani Inggris yang sangat kuat.</item>
+        <item>Peter Parker (Tom Holland) tengah mengunjungi Eropa untuk liburan panjang bersama temaan-temanya. Sayangnya , Parker tidak bisa dengan tenang menikmati liburannya, karena Nick Fury datang secara tiba-tiba di kamar hotelnya. Selama di Eropa pun Peter harus menghadapi banyak musuh mulai dari Hydro Man, Sandman dan Molten Man.</item>
+        <item>Spider-Man melintasi dimensi paralel dan bekerja sama dengan Spider-Men dari dimensi-dimensi tersebut untuk menghentikan ancaman terhadap semua realitas.</item>
+        <item>Seorang jurnalis, Eddie Brock (Tom Hardy) ingin melakukan sebuah investasi kasus terhadap penemuan yang dipimpin oleh Dr. Carlton Drake (Riz Ahmed). Karena investigasinya, Eddie mengunjungi lab milik Dr. Calrlton Drake. Semuanya ditujukan untuk membuktikan bahwa Dr. Carlton Drake sedang sedang melakukan tindakan jahat menggunakan Symbiote.</item>
+    </string-array>
+
+    <string-array name="show_name">
+        <item>Unknown Soldier </item>
+        <item>An Unknown Enemy</item>
+        <item>The Resident </item>
+        <item>Final Space</item>
+        <item>Chilling Adventures of Sabrina</item>
+        <item>Devilman: Crybaby </item>
+        <item>Black Lightning</item>
+        <item>Krypton </item>
+        <item>Killing Eve</item>
+        <item>72 Dangerous Animals: Asia</item>
+    </string-array>
+    <string-array name="show_description">
+        <item>Ikuti perusahaan senapan mesin Angkatan Darat Finlandia yang beroperasi di front Karelia selama Perang Berkelanjutan dari mobilisasi pada 1941 ke Gencatan Senjata Moskow pada 1944.</item>
+        <item>Fernando Barrientos, Kepala Direktorat Keamanan Nasional, Polisi Rahasia Meksiko, sedang berusaha mencapai posisi tertinggi di negara ini. Dalam perjalanannya, neraka harus memanipulasi, mengkhianati, dan membunuh, dan dia siap untuk itu. Namun, jalannya akan penuh dengan rintangan. Tak seorang pun, bahkan keluarganya, akan kebal terhadap kekacauan yang tersisa dalam usahanya mencari kekuatan total.</item>
+        <item>Seorang residen senior yang tangguh dan cemerlang memandu seorang dokter muda yang idealis melewati hari pertamanya, menarik kembali tirai tentang apa yang sebenarnya terjadi, baik dan buruk, dalam kedokteran modern.</item>
+        <item>Seorang astronot bernama Gary dan sahabat karib Mooncake yang menghancurkan planetnya memulai perjalanan serial melalui ruang untuk membuka misteri "Ruang Akhir," titik terakhir di alam semesta, jika itu benar-benar ada.</item>
+        <item>Menjelang ulang tahunnya yang ke-16, Sabrina harus memilih antara dunia penyihir keluarganya dan dunia manusia dari teman-temannya. Berdasarkan komik Archie.</item>
+        <item>Akira Fudo belajar dari sahabatnya Ryo Asuka bahwa setan akan menghidupkan kembali dan merebut kembali dunia dari manusia. Dengan manusia yang putus asa terhadap ancaman ini, Ryo menyarankan untuk bergabung dengan iblis. Dengan ini, Akira menjadi Devilman, makhluk dengan kekuatan iblis tetapi dengan hati manusia.</item>
+        <item>Jefferson Pierce adalah seorang pria yang bergulat dengan sebuah rahasia. Sebagai ayah dari dua putri dan kepala sekolah dari sebuah sekolah menengah charter yang juga berfungsi sebagai tempat yang aman bagi kaum muda di lingkungan New Orleans yang dikuasai oleh kekerasan geng, ia adalah pahlawan bagi komunitasnya.</item>
+        <item>Mengatur dua generasi sebelum penghancuran planet rumah Man of Steel yang legendaris, Krypton mengikuti kakek Superman - yang House Elnya dikucilkan dan dipermalukan - saat ia berjuang untuk menebus kehormatan keluarganya dan menyelamatkan dunianya yang tercinta dari kekacauan.</item>
+        <item>Seorang konsultan keamanan memburu seorang pembunuh kejam. Sama-sama terobsesi satu sama lain, mereka saling berhadapan dalam permainan epik kucing-dan-tikus.</item>
+        <item>Dari taring ke cakar hingga sengatan berbisa, mereka semua memegang senjata mematikan. Tapi makhluk mana yang akan dinobatkan sebagai yang paling sengit?</item>
+    </string-array>
+</resources>

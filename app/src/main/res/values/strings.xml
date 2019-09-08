@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="name_films">Nama Film</string>
+    <string name="bahasa">Change Language</string>
+    <string name="desc">Synopsis</string>
+    <string name="dummy">Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orms half-human, half-Atlantean brother and true heir to the throne.</string>
+    <string name="content">Image</string>
+    <string-array name="data_name">
+        <item>Aquaman</item>
+        <item>Avengers: Infinity WAR</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumblebee</item>
+        <item>Captain Marvel</item>
+        <item>How to Train Your Dragon: The Hidden World</item>
+        <item>Men in Black: International</item>
+        <item>Preman Pensiun</item>
+        <item>Robin Hood</item>
+        <item>Spider-Man: Far From Home</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orms half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>BOHEMIAN RHAPSODY is a film based on a true story to celebrate the music of the legendary QUEEN Rock band and of course their extraordinary vocalist, FREDDIE MERCURY, who is known to oppose tradition and stereotypes to become one of the most loved entertainers on the planet.</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</item>
+        <item>Captain Marvel is a superhero woman from Marvel who has a lot of equal strength like Superman. The superhero named Carol Danvers was originally an aerospace pilot, said he got his super powers from an alien nation.</item>
+        <item>As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.</item>
+        <item>Men in Black always protects the Earth from universe criminals. In this new adventure, they must overcome their biggest threat to date: the spies in the Men in Black organization.</item>
+        <item>Preman Pensiun is an Indonesian film in 2019 which was adapted from a soap opera with the same title that once aired on RCTI television station. The film was directed by Aris Nugraha who is also a screenwriter and premiered on January 17, 2019.</item>
+        <item>Robin Hood (Taron Egerton) as a crusader returned to his country under different circumstances. He found corrupt officials and spent royal money while the people were in a state of misery. Together with Little John (Jamie Foxx) he fought a very strong British tyranny.</item>
+        <item>Peter Parker (Tom Holland) is visiting Europe for a long vacation with his friends. Unfortunately, Parker could not calmly enjoy his vacation, because Nick Fury arrived suddenly in his hotel room. While in Europe Peter had to face many enemies ranging from Hydro Man, Sandman and Molten Man.</item>
+        <item>Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson "Kingpin" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_captain</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_mib</item>
+        <item>@drawable/poster_preman</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_farfromhome</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+    <string-array name="show_name">
+        <item>Unknown Soldier </item>
+        <item>An Unknown Enemy</item>
+        <item>The Resident </item>
+        <item>Final Space</item>
+        <item>Chilling Adventures of Sabrina</item>
+        <item>Devilman: Crybaby </item>
+        <item>Black Lightning</item>
+        <item>Krypton </item>
+        <item>Killing Eve</item>
+        <item>72 Dangerous Animals: Asia</item>
+    </string-array>
+    <string-array name="show_description">
+        <item>Follow Finnish Army machine gun company operating in the Karelian front during the Continuation War from mobilisation in 1941 to the Moscow Armistice in 1944.</item>
+        <item>Fernando Barrientos, Head of the National Security Directorate, Mexico Secret Police, is trying to reach the highest position in the country. On his way, hell have to manipulate, betray, and kill, and he well prepared for it. However, his path will be full of obstacles. Nobody, not even his family, will be immune to the chaos left in his quest for total power.</item>
+        <item>A tough, brilliant senior resident guides an idealistic young doctor through his first day, pulling back the curtain on what really happens, both good and bad, in modern-day medicine.</item>
+        <item>An astronaut named Gary and his planet-destroying sidekick Mooncake embark on serialized journeys through space in order to unlock the mystery of “Final Space,” the last point in the universe, if it actually does exist.</item>
+        <item>As her 16th birthday nears, Sabrina must choose between the witch world of her family and the human world of her friends. Based on the Archie comic.</item>
+        <item>Akira Fudo learns from his best friend Ryo Asuka that demons will revive and reclaim the world from humans. With humans hopeless against this threat, Ryo suggests combining with a demon. With this, Akira becomes Devilman, a being with the power of demon but with a human heart.</item>
+        <item>Jefferson Pierce is a man wrestling with a secret. As the father of two daughters and principal of a charter high school that also serves as a safe haven for young people in a New Orleans neighborhood overrun by gang violence, he is a hero to his community.</item>
+        <item>Set two generations before the destruction of the legendary Man of Steel’s home planet, Krypton follows Superman’s grandfather — whose House of El was ostracized and shamed — as he fights to redeem his family’s honor and save his beloved world from chaos.</item>
+        <item>A security consultant hunts for a ruthless assassin. Equally obsessed with each other, they go head to head in an epic game of cat-and-mouse</item>
+        <item>From fangs to claws to venomous stings, they all wield deadly weapons. But which creature will be crowned the fiercest of all?</item>
+    </string-array>
+    <array name="show_photo">
+        <item>@drawable/poster_unknown</item>
+        <item>@drawable/poster_an</item>
+        <item>@drawable/poster_resident</item>
+        <item>@drawable/poster_final</item>
+        <item>@drawable/poster_image</item>
+        <item>@drawable/poster_devil</item>
+        <item>@drawable/poster_blasck</item>
+        <item>@drawable/psoter_krypton</item>
+        <item>@drawable/poster_eve</item>
+        <item>@drawable/poster_netflix</item>
+    </array>
+</resources>
